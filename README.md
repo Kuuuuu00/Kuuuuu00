@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=KueYoung&fontSize=50&animation=fadeIn" />
 
 
-<br>
-<br>
 <div align="center"><h1>🛠️ Tech Stack</h1></div>
 <div align="center">
   <h3>FE</h3>
