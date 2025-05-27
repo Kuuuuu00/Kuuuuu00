@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/Spring-47A248?style=flat-square&logo=spring&logoColor=white">
   <br>
   <br>
-  <br>
-  <div>
-  <a href="https://devnm.notion.site/devnm/9cfb4cd6c94b4fd9b8c58803ba20071f"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
-  </div>
 
   
 </div>
