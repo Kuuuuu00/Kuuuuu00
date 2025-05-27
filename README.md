@@ -1,5 +1,4 @@
-<div align="center"><h3>🛠️ 안녕하세요 🙌<br>
-홍익대학교 컴퓨터공학과 21학번 3학년에 재학중인 <br> 프론트엔드 개발자 박규영입니다.</h3></div>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=KueYoung&fontSize=50&animation=fadeIn" />
 
 
 <br>
