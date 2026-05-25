@@ -47,6 +47,6 @@
 <br/>
   <li>한이음 드림업 : 나풀나풀 -  나만의 반려식물 아바타를 통한 시니어 계층의 우울감 완화 서비스 <a href="https://www.napulnapul.com/">공식 홈페이지</a> 프론트엔드 개발 <sub>(2025.01 ~ ) </sub></li>
 <br/>
-  <li>홍익대학교 컴퓨터공학과 졸업프로젝트 : <b>금융 포트폴리오 이론과 AI 기반 KBO 야구 투수 교체 의사결정 지원 시스템</b> 개발 — 마코위츠 평균-분산 효용 함수를 차용한 CatBoost + Monte Carlo Simulation + DQN 강화학습 3단계 AI 파이프라인 설계 및 구현 <sub>(2025.03 ~ ) </sub></li>
+  <li>홍익대학교 컴퓨터공학과 졸업프로젝트 : <b>금융 포트폴리오 이론과 AI 기반 KBO 야구 투수 교체 의사결정 지원 시스템</b> 개발 — 마코위츠 평균-분산 효용 함수를 차용한 CatBoost + Monte Carlo Simulation + DQN 강화학습 3단계 AI 파이프라인 설계 및 구현 <sub>(2025.12 ~ ) </sub></li>
 <br/>
-</div>공유콘텐츠
+</div>
