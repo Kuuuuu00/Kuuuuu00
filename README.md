@@ -31,7 +31,7 @@
 </div>
 <center></center>  
 <br>
- ##History 
+<h3>History</h3> 
   <div align=left>
   <li>홍익대학교 컴퓨터공학과 <sub>(2021.03 ~)</sub></li>
   <li>멋쟁이사자처럼 홍익대 12기 FE 아기사자 <sub>(2024.01 ~ 12 )</sub></li>
